@@ -1,0 +1,12 @@
+MIS COMANDOS GIT
+
+git init: Inicializar repositorios.
+git clone: Clonar repositorios.
+git status: Consultar el estado.
+git add .: Preparar cambios.
+git commit: Guardar cambios.
+git push: Subir cambios.
+git pull: Descargar actualizaciones.
+git branch: Administrar ramas.
+git switch: Cambiar de rama.
+git merge: Unir ramas.
